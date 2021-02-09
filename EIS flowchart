@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-09T09:42:05.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="ixaubY9UEq9la9XBa15O" version="14.3.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-02-09T09:42:37.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="0AG6Xm6_pWpW8xKDxgft" version="14.3.0" type="github" pages="6">
   <diagram id="SMjme2Euk1Zhe9BEeOwp" name="Employee Page">
     <mxGraphModel dx="1296" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -790,7 +790,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6J-KFFazHJJkyMA3iCPi" name="Manage Accounts">
-    <mxGraphModel dx="1574" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1296" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="PhX2srppY23tPK3q0DV4-0" />
         <mxCell id="PhX2srppY23tPK3q0DV4-1" parent="PhX2srppY23tPK3q0DV4-0" />
@@ -867,7 +867,7 @@
         <mxCell id="HFWGpHqnQKFxZQGzusIy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="PhX2srppY23tPK3q0DV4-1" source="HFWGpHqnQKFxZQGzusIy-19" target="HFWGpHqnQKFxZQGzusIy-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HFWGpHqnQKFxZQGzusIy-19" value="deactivate Selected User Account" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="PhX2srppY23tPK3q0DV4-1">
+        <mxCell id="HFWGpHqnQKFxZQGzusIy-19" value="deactivating Selected User Account" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="PhX2srppY23tPK3q0DV4-1">
           <mxGeometry x="45" y="600" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HFWGpHqnQKFxZQGzusIy-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="PhX2srppY23tPK3q0DV4-1" source="HFWGpHqnQKFxZQGzusIy-21">
