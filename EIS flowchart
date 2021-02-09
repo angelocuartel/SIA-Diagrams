@@ -1,6 +1,119 @@
-<mxfile host="app.diagrams.net" modified="2021-02-09T09:34:09.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="TkLxsgivstObc_FdZwKI" version="14.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-02-09T09:42:05.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="ixaubY9UEq9la9XBa15O" version="14.3.0" type="github" pages="6">
+  <diagram id="SMjme2Euk1Zhe9BEeOwp" name="Employee Page">
+    <mxGraphModel dx="1296" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="_UYRckx6a3kv9sGa-j1E-0" />
+        <mxCell id="_UYRckx6a3kv9sGa-j1E-1" parent="_UYRckx6a3kv9sGa-j1E-0" />
+        <mxCell id="TSgfIg2bed5U-sx01kdL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="_UYRckx6a3kv9sGa-j1E-1" source="TSgfIg2bed5U-sx01kdL-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.5882352941178" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Employee Page" lucidchartObjectId="up1~cIhMeVEe" id="TSgfIg2bed5U-sx01kdL-0">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=offPageConnector;whiteSpace=wrap;fontSize=16;fontColor=#333333;spacing=4;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2;" vertex="1" parent="_UYRckx6a3kv9sGa-j1E-1">
+            <mxGeometry x="370" y="20" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="TSgfIg2bed5U-sx01kdL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="_UYRckx6a3kv9sGa-j1E-1" source="TSgfIg2bed5U-sx01kdL-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.5882352941178" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSgfIg2bed5U-sx01kdL-2" value="Display Employee Details" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="_UYRckx6a3kv9sGa-j1E-1">
+          <mxGeometry x="352.5" y="180" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TSgfIg2bed5U-sx01kdL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="_UYRckx6a3kv9sGa-j1E-1" source="TSgfIg2bed5U-sx01kdL-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.5882352941178" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2M8zxRqtE5uawsXYYwJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_UYRckx6a3kv9sGa-j1E-1" source="TSgfIg2bed5U-sx01kdL-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="330.2941176470589" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSgfIg2bed5U-sx01kdL-5" value="LogOut ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="_UYRckx6a3kv9sGa-j1E-1">
+          <mxGeometry x="375" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="LogOut Page" lucidchartObjectId="up1~cIhMeVEe" id="Y2M8zxRqtE5uawsXYYwJ-0">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=offPageConnector;whiteSpace=wrap;fontSize=16;fontColor=#333333;spacing=4;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2;" vertex="1" parent="_UYRckx6a3kv9sGa-j1E-1">
+            <mxGeometry x="370" y="450" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Y2M8zxRqtE5uawsXYYwJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_UYRckx6a3kv9sGa-j1E-1" source="Y2M8zxRqtE5uawsXYYwJ-2" target="TSgfIg2bed5U-sx01kdL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2M8zxRqtE5uawsXYYwJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="_UYRckx6a3kv9sGa-j1E-1" source="Y2M8zxRqtE5uawsXYYwJ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="249.88235294117658" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2M8zxRqtE5uawsXYYwJ-2" value="Update Personal Details ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="_UYRckx6a3kv9sGa-j1E-1">
+          <mxGeometry x="210" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2M8zxRqtE5uawsXYYwJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="_UYRckx6a3kv9sGa-j1E-1" source="Y2M8zxRqtE5uawsXYYwJ-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="249.88235294117658" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2M8zxRqtE5uawsXYYwJ-5" value="Display Editable Personal Details" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="_UYRckx6a3kv9sGa-j1E-1">
+          <mxGeometry x="200" y="420" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2M8zxRqtE5uawsXYYwJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="_UYRckx6a3kv9sGa-j1E-1" source="Y2M8zxRqtE5uawsXYYwJ-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="249.88235294117658" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2M8zxRqtE5uawsXYYwJ-8" value="Updating Personal Details" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="_UYRckx6a3kv9sGa-j1E-1">
+          <mxGeometry x="200" y="540" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2M8zxRqtE5uawsXYYwJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="_UYRckx6a3kv9sGa-j1E-1" source="Y2M8zxRqtE5uawsXYYwJ-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="759.7058823529412" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2M8zxRqtE5uawsXYYwJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="_UYRckx6a3kv9sGa-j1E-1" source="Y2M8zxRqtE5uawsXYYwJ-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="249.88235294117658" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2M8zxRqtE5uawsXYYwJ-10" value="Valid?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="_UYRckx6a3kv9sGa-j1E-1">
+          <mxGeometry x="200" y="710" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2M8zxRqtE5uawsXYYwJ-12" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="_UYRckx6a3kv9sGa-j1E-1">
+          <mxGeometry x="410" y="380" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2M8zxRqtE5uawsXYYwJ-13" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="_UYRckx6a3kv9sGa-j1E-1">
+          <mxGeometry x="335" y="300" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2M8zxRqtE5uawsXYYwJ-14" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="_UYRckx6a3kv9sGa-j1E-1">
+          <mxGeometry x="240" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2M8zxRqtE5uawsXYYwJ-15" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="_UYRckx6a3kv9sGa-j1E-1">
+          <mxGeometry x="185" y="280" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2M8zxRqtE5uawsXYYwJ-16" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="_UYRckx6a3kv9sGa-j1E-1">
+          <mxGeometry x="145" y="740" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2M8zxRqtE5uawsXYYwJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_UYRckx6a3kv9sGa-j1E-1" source="Y2M8zxRqtE5uawsXYYwJ-17" target="Y2M8zxRqtE5uawsXYYwJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2M8zxRqtE5uawsXYYwJ-17" value="Display Error" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="_UYRckx6a3kv9sGa-j1E-1">
+          <mxGeometry x="20" y="730" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2M8zxRqtE5uawsXYYwJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_UYRckx6a3kv9sGa-j1E-1" target="TSgfIg2bed5U-sx01kdL-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2M8zxRqtE5uawsXYYwJ-22" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="_UYRckx6a3kv9sGa-j1E-1">
+          <mxGeometry x="530" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="ManageEmployee">
-    <mxGraphModel dx="1837" dy="970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1296" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -121,7 +234,7 @@
         <mxCell id="huyEZRfcd-kiUPUv_fWE-17" value="Yes" style="text;html=1;resizable=0;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;;fontSize=13.333333333333334;" parent="huyEZRfcd-kiUPUv_fWE-16" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="archived selected employee" lucidchartObjectId="mNbaabbRzT5O" id="huyEZRfcd-kiUPUv_fWE-18">
+        <UserObject label="archiving selected employee&lt;br&gt;From database" lucidchartObjectId="mNbaabbRzT5O" id="huyEZRfcd-kiUPUv_fWE-18">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="352" y="660" width="120" height="90" as="geometry" />
           </mxCell>
@@ -160,7 +273,7 @@
             <mxPoint x="216.88235294117658" y="895" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Fillup the Form" lucidchartObjectId="mNbaabbRzT5O" id="YcANtcT1QK4b8FuAwFE5-0">
+        <UserObject label="Fillingup the form" lucidchartObjectId="mNbaabbRzT5O" id="YcANtcT1QK4b8FuAwFE5-0">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
             <mxGeometry x="157" y="735" width="120" height="90" as="geometry" />
           </mxCell>
@@ -241,7 +354,7 @@
             <mxPoint x="607" y="925" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YcANtcT1QK4b8FuAwFE5-34" value="Choose file from device" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YcANtcT1QK4b8FuAwFE5-34" value="Choosing file from drive" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="557" y="765" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YcANtcT1QK4b8FuAwFE5-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YcANtcT1QK4b8FuAwFE5-36" target="YcANtcT1QK4b8FuAwFE5-39">
@@ -342,7 +455,7 @@
             <mxPoint x="896.8823529411766" y="895" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YcANtcT1QK4b8FuAwFE5-71" value="unarchived selectedemployee" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YcANtcT1QK4b8FuAwFE5-71" value="Unarchiving Employee from database" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="847" y="745" width="100" height="100" as="geometry" />
         </mxCell>
         <UserObject label="B" lucidchartObjectId="PNbatzHGe4vb" id="YcANtcT1QK4b8FuAwFE5-73">
@@ -393,7 +506,7 @@
         <mxCell id="YcANtcT1QK4b8FuAwFE5-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YcANtcT1QK4b8FuAwFE5-86" target="YcANtcT1QK4b8FuAwFE5-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YcANtcT1QK4b8FuAwFE5-86" value="Remove File From Database" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YcANtcT1QK4b8FuAwFE5-86" value="Removing File From Database" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1347" y="595" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YcANtcT1QK4b8FuAwFE5-89" value="Display File content" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
